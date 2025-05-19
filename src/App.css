@@ -1,0 +1,10 @@
+.inp {
+  border: 1px solid;
+  display: inline-flex;
+  margin-inline-start: 10px;
+  width: 290px;
+  height: 5vh;
+  margin-top: 10px;
+  padding-left: 10px;
+  border-radius: 10px;
+}
